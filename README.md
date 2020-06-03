@@ -1,2 +1,2 @@
-# modal-facility-time
+# modal
 Bootstrap modal
